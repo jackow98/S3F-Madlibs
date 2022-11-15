@@ -1,0 +1,17 @@
+print("Welcome to Rap Libs - Answer the following questions to create your rap libs")
+
+name = input("what is your name:")
+school_subject = input("what is your favourite subject:")
+animal = input("what is your favourite animal (singular):")
+location = input("where is your favourite location:")
+celebrity = input("who is your favourite celebratiy:")
+singer = input("who is your favourite singer:")
+
+print("Y'all know me by now, " + str(name))
+print("I'm the biggest rapper in the game, ")
+print("The " + school_subject + " god")
+print("King of " + location)
+print("Rapping bout " + animal + "s till I die")
+print("And at the end of the day, you know I can bring it like " + celebrity)
+print("Droppin' classics harder than " + singer)
+print("--------RAPLIBS END--------")
