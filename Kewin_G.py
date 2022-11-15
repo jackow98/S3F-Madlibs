@@ -1,29 +1,37 @@
+# Mr Walker's feedback
+# Good start, I have fixed your code below and left some comments
+
+# I would have all your variables in one place
+# 1. You can't have spaces in your variable names
+# 2. You can't have the same variable name twice otherwise it will overwrite the first one
+# 3. Could to use a colon at the end of input to make it clear to user to input
+adjective1 = input ("enter an adjective: ")
+adjective2 = input ("enter an adjective: ")
+type_of_bird = input ("enter a type of bird: ")
+room_in_a_house = input("enter a room in a house: ")
+verb1 = input ("enter a verb: ")
+verb2 = input ("enter a verb: ")
+relatives_name = input ("enter a relative's name: ")
+noun = input ("enter a noun: ")
+liquid = input ("enter a liquid")
+verb_ending_in_ing1 = input ("enter a verb ending in -ing")
+part_of_the_body = input ("enter a par of the body")
+plural_noun = input ("enter a plural noun")
+verb_ending_in_ing2 = input ("enter a verb ending in -ing")
+noun = input(" enter a noun")
+
 print("it was a")
-adjective = input ("enter an adjective")
 print("cold November day,I woke up to the")
-adjective = input ("enter an adjective")
 print("smell of")
-type of bird = input ("enter a type of bird")
-print(roasting in the")
-room in a house = input("enter a room in a house")
+print("roasting in the")
 print("downstairs.I")
-verb = input ("enter a verb")
 print("down the stairs to see if I could help")
-verb = input ("enter a verb")
-print("the dinner.My mum said,"See if")
-relative's name = input ("enter a relative's name")
+print("the dinner.My mum said, \"See if")
 print("needs a fresh")
-noun = input ("enter a noun")
 print("So I carried a tray of glasses full of")
-a liquid = input ("enter a liquid")
 print("into the")
-verb ending in -ing = input ("enter a verb ending in -ing")
-print("room.When I got there,I couldn't believy my")
-part of the body = input ("enter a par of the body")
+print("room.When I got there,I couldn't believe my")
 print("!There were")
-plural noun = input ("enter a plural noun")
-verb ending in -ing = input ("enter a verb ending in -ing")
 print("on the")
-noun = input (" enter a noun")
 
 

@@ -1,3 +1,6 @@
+# Mr Walker's feedback
+# Fantastic program, very creative and great use of variables and concatenation. Well done
+
 print('Welcome to football career - Answer the following questions the create your football career')
 
 player_name = input('enter your players name:')

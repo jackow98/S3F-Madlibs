@@ -1,11 +1,12 @@
+# Mr Walker's feedback
+# Great work, good use of concatenation and variable naming
+
 print("Welcome to KSI Libs - Answer the following questions to create your KSI Libs")
 
-name = input("Enter a person's name:")
-
+name = input("Enter a person's name: ")
 verb_past = input("Enter a past tense verb (e.g created): ")
-
-time_of_day = ["", ""]
-time_of_day =input("Enter a time of day (e.g. morning): ")
+# You only have one time of day so do not need an array
+time_of_day = input("Enter a time of day (e.g. morning): ")
 
 print("-----------KSI LIBS Start---------")
 print("I wanna wake up every mornin', feelin' better" + name)

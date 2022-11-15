@@ -1,8 +1,14 @@
-name = input("enter a name")
-singer = input(
+# Mr Walker's feedback
+# Good program, would be nice to see some use of concatenation
 
+# Could to put a colon at the end of your input to make it clear user needs to input
+name = input("Enter a name: ")
+singer = input("Enter a singer: ")
 
-    print ("Once upon a younger year")
+# Would be nice to see you thinking about your own variables such as
+lengthOfTime = input("Enter a length of time: ")
+
+print ("Once upon a younger " + lengthOfTime)
 print ("When all our shadows disappeared")
 print ("The animals inside came out to play")
 print ("Went face to face with all our fears")

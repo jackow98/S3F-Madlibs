@@ -1,16 +1,26 @@
+# Mr Walker's feedback
+# Good start and use of input, would be nice to see some use of concatenation
 
-print("Let’s Go")
-nameb = input("enter a name:")
+# Have a think about what variables you would use in your song, such as:
+country1 = input("Please enter a country: ")
+country2 = input("Please enter a second country: ")
+country3 = input("Please enter a third country: ")
+
+name = input("enter a name:")
 singer = input("enter a singer:")
 location = input("enter a country:")
-print("Everybody Rise Up")
-print("Stand Up")
 animal = input("enter a animal:")
 school = input("enter a school:")
+
+print("Let’s Go")
+print("Everybody Rise Up")
+print("Stand Up")
 print("It’s That Time")
 print("Come On")
+
+# You can then use the countries inputted above in your code (This is concatenation)
 print("We Got Portugal")
-print("We Got Mexico, France, England, Brazil")
+print("We Got" + country1 + ", France, " + country2 + country3)
 print("Belgium, Qatar, Germany")
 print("U.S.A, Iran, Canada")
 print("Argentina, Australia")
@@ -42,6 +52,3 @@ print("Headers until we die and like hattricks, we finna try")
 print("Hey, hold on, who finna win? Twenty-two, we on the bar")
 print("World Cup and that Q-tar, you know we hoppin' on the jet, hah")
 print("Mexico, we up in there, got a lil', for my fans, like")
-
-
-
